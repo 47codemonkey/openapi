@@ -1,0 +1,32 @@
+.container {
+  padding: 20px;
+}
+
+.inputFile {
+  margin-bottom: 20px;
+}
+
+.textarea {
+  width: 100%;
+  height: 200px;
+}
+
+.error {
+  color: red;
+}
+
+.pathContainer {
+  margin-bottom: 20px;
+}
+
+.methodDetails {
+  margin-left: 20px;
+}
+
+.list {
+  padding-left: 20px;
+}
+
+.listItem {
+  list-style-type: none;
+}
